@@ -99,4 +99,4 @@ env_variables:
 https://app.swaggerhub.com/apis/Braeden0/Prospectus/1.0.0#/
 
 ## Additional:
-This repository is a copy of a repo of Srivardhan Sajja. Exact repo link is https://github.com/srivardhansajja/prospectus. Srivardhan has given me access to the repo but forgot to put me as a contributor.
+This repository is a copy of a repo of Srivardhan Sajja. Exact repo link is https://github.com/srivardhansajja/prospectus. Srivardhan has given me access to the repo but has forgotten to put me as a contributor.
